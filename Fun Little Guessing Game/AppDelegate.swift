@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Fun Little Guessing Game
 //
-//  Created by Gaskell, Roydon (514077) on 3/24/23.
-//
+// Created by SkyeGamesYT
+// MIT License
 
 import UIKit
 
